@@ -11,7 +11,7 @@
 
 
 <!-- GitHub Skills start -->
-## 🎓Tools and Technologies:
+ 🎓Tools and Technologies:
 - **Programming Languages**
 	<center>
 		<table>
