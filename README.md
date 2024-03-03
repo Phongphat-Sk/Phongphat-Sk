@@ -47,8 +47,8 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
-						<span><strong>Wordpress</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+						<span><strong>laravel</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
@@ -59,16 +59,16 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
 					</td>
 					<td  align="center">
-						<span><strong>Wix</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+						<span><strong>Vue.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
 					</td>
 					<td align="center">
 						<span><strong>TypeScript</strong></span><br/>
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
 					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
+						<span><strong>php</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
 					</td>
 				</tr>
 			</tbody>
@@ -84,8 +84,8 @@
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Hive</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+						<span><strong>Mongodb</strong></span><br/>
+						<img height="64px" width="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
 					</td>
 				</tr>
 			</tbody>
@@ -97,8 +97,8 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Heroku</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+						<span><strong>firebase</strong></span><br/>
+						<img src="https://miro.medium.com/v2/resize:fit:90/1*R4c8lHBHuH5qyqOtZb3h-w.png">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Netlify</strong></span><br/>
