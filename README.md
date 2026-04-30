@@ -1,177 +1,149 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003F87&height=220&section=header&text=Phongphat%20Sukchaem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Full-Stack%20Learner%20%7C%20Thailand&descAlignY=58&descSize=18" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Phongphat Sukchaem</h1>
-<h3 align="center">A passionate Web Developer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://mustafagunaydin.dev/images/dev.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">
+  A passionate Web Developer from Thailand 🇹🇭
+</h3>
 
-- 📫 How to reach me: **phongphat.jr@gmail.com**
+<p align="center">
+  <a href="mailto:phongphat.jr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phongphat.jr%40gmail.com-003F87?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Phongphat-Sk">
+    <img src="https://img.shields.io/badge/GitHub-Phongphat--Sk-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## 🎓 Tools and Technologies:
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I am a web developer who enjoys building practical systems, learning new technologies, and improving real-world software projects.
+
+- 🔭 Currently working on **Optical Shop Management System**
+- 🌱 Learning more about **Full-Stack Web Development**
+- 💻 Interested in **Vue.js, Express.js, MongoDB, POS Systems, and Web Applications**
+- 🎯 Goal: Build clean, useful, and scalable web applications
+- 📫 Contact me: **phongphat.jr@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Project
+
+### 🕶️ Optical Shop Management System
+
+A web-based management system for an optical shop, including inventory, customers, sales POS, receipts, and sales history.
+
+**Main Features**
+- Product and stock management
+- Customer profile and eye prescription records
+- POS sales workflow
+- Receipt generation
+- Sales history and payment status
+- MongoDB database integration
+
+**Tech Stack**
+- Frontend: Vue.js, Vuetify
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>Python</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-            </td>
-            <td align="center">
-                <span><strong>Java</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php" />
+</p>
 
 ### Frontend Development
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>HTML</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-            </td>
-            <td align="center">
-                <span><strong>CSS</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-            </td>
-            <td align="center">
-                <span><strong>JavaScript</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-            </td>
-            <td align="center">
-                <span><strong>React</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-            </td>
-            <td align="center">
-                <span><strong>Vue.js</strong></span><br/>
-                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
-            </td>
-            <td align="center">
-                <span><strong>Laravel</strong></span><br/>
-                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
-            </td>
-            <td align="center">
-                <span><strong>Bootstrap</strong></span><br/>
-                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-            </td>
-            <td align="center">
-                <span><strong>PHP</strong></span><br/>
-                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
 
 ### Databases
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>MySQL</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-            </td>
-            <td align="center">
-                <span><strong>MongoDB</strong></span><br/>
-                <img height="64px" width="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
 
-### Web Hosting Platforms
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>Firebase</strong></span><br/>
-                <img src="https://miro.medium.com/v2/resize:fit:90/1*R4c8lHBHuH5qyqOtZb3h-w.png">
-            </td>
-            <td align="center">
-                <span><strong>Netlify</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
-            </td>
-            <td align="center">
-                <span><strong>GitHub Pages</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Design Software
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>Figma</strong></span><br/>
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-            </td>
-            <td align="center">
-                <span><strong>Canva</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+### Cloud & Hosting
 
-### Cloud Platforms
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>Google Cloud</strong></span><br/>
-                <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
-            </td>
-            <td align="center">
-                <span><strong>AWS</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-            </td>
-            <td align="center">
-                <span><strong>Azure</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,github,aws,azure,gcp" />
+</p>
 
-### Others
-<center>
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <span><strong>Git</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-            </td>
-            <td align="center">
-                <span><strong>GitHub</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-            </td>
-            <td align="center">
-                <span><strong>Arduino</strong></span><br/>
-                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center>
+### Tools & Design
 
-## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phongphat-sk&show_icons=true&locale=en&layout=compact" alt="phongphat-sk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phongphat-sk&show_icons=true&locale=en" alt="phongphat-sk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phongphat-sk&" alt="phongphat-sk" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="48" height="48" />
+</p>
+
+---
+
+## 📌 Skills Overview
+
+| Category | Skills |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, Vue.js, React, Bootstrap |
+| Backend | Node.js, Express.js, PHP, Laravel |
+| Database | MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code |
+| Design | Figma, Canva |
+| Cloud | Firebase, Netlify, GitHub Pages, Google Cloud, AWS, Azure |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Phongphat-Sk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phongphat-Sk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phongphat-Sk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Phongphat-Sk&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:phongphat.jr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-003F87?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003F87&height=120&section=footer" />
+</p>
